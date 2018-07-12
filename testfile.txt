@@ -1,2 +1,2 @@
 Hello world
-
+This is the first file created in git 'Test' repository.
